@@ -3,7 +3,7 @@ output_dir: ../docs
 navbar:
   title: "Lab3"
   left:
-  - text: penguins
+  - text: "penguins""
     href: penguins.html
   - text: Lectures
     menu:
