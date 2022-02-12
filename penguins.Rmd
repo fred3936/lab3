@@ -16,6 +16,8 @@ library(tidyverse)
 ```
 
 
+![](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
+
 ## Data
 ```{r}
 dim(penguins)

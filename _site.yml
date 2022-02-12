@@ -1,0 +1,11 @@
+name: "Lab3"
+
+navbar:
+  title: "Lab3"
+  left:
+    - text: "Homepage"
+      href: index.html
+    - text: "About"
+      href: about.html
+
+output_dir: "." 
