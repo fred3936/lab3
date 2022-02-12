@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Homepage"
       href: index.html
+    - text: "Penguins"
+      href: penguins.html
     - text: "About"
       href: about.html
 
