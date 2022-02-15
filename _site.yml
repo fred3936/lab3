@@ -1,4 +1,5 @@
 name: "Lab3"
+
 navbar:
   title: "Lab3"
   left:
@@ -6,14 +7,22 @@ navbar:
       href: index.html
     - text: "Penguins"
       href: penguins.html
-    - text: "More"
+    - text: "More Pages"
       menu:
         - text: "penguins subpage 1"
           href: penguins.html
         - text: "penguins subpage 2"
           href: penguins.html
-        - text: "penguins subpage 1"
+        - text: "penguins subpage 3"
           href: penguins.html
+    - text: "About"
+      menu:
+        - text: "About 1"
+          href: about.html
+        - text: "About 2"
+          href: about.html
+        - text: "About 3"
+          href: about.html
 output_dir: "."
 output:
   html_document:
